@@ -12,7 +12,11 @@ Versión interactiva [![Binder](https://mybinder.org/badge_logo.svg)](https://my
 
 ## Datasets 
 
+*De Sovacool & Hess, 2017:*
+
 - [theories.csv](https://github.com/thessaly/elementosUNQ2019/blob/master/theories.csv): listado de 96 teorías identificadas como relevantes por los expertos (original)
 - [experts.csv](https://github.com/thessaly/elementosUNQ2019/blob/master/experts.csv): listado de 35 expertos entrevistados en el artículo (original)
 - [initial.csv](https://github.com/thessaly/elementosUNQ2019/blob/master/initial.csv): listado de 14 teorías identificadas como más relevantes, de las 96 originales (original)
+
+*Propio*
 - [bibliometrics.csv](https://github.com/thessaly/elementosUNQ2019/blob/master/bibliometrics.csv): listado de teorías ampliado con indicadores bibliométricos (propio)
