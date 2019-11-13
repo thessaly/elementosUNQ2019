@@ -8,7 +8,7 @@ Versión interactiva [![Binder](https://mybinder.org/badge_logo.svg)](https://my
 
 [Repositorio](https://github.com/thessaly/elementosUNQ2019)
 
-[Artículo analizado (Sovacool & Hess, 2017](https://journals.sagepub.com/doi/full/10.1177/0306312717709363)
+[Artículo analizado (Sovacool & Hess, 2017)](https://journals.sagepub.com/doi/full/10.1177/0306312717709363)
 
 ## Datasets 
 
