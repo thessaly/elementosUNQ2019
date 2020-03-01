@@ -2,7 +2,7 @@
 
 Trabajo final para la materia del Doctorado en Ciencia y Tecnología de la UNQ. 
 
-- [Link al análisis](https://paws-public.wmflabs.org/paws-public/User:Cassandreces/TP%20elementos.ipynb)
+- [Link al análisis](https://paws-public.wmflabs.org/paws-public/User:Cassandreces/UNQ/TP%20elementos.ipynb)
 
 - [Repositorio](https://github.com/thessaly/elementosUNQ2019)
 
